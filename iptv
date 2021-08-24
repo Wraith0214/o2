@@ -1,1 +1,8 @@
-
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="České" tvg-id="2-čt1",ČT1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/6-tv-stb_hd_ott.m3u8
+#EXTINF:-1 group-title="České" tvg-id="3-čt2",ČT2
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/7-tv-stb_hd_ott.m3u8
+#EXTINF:-1 group-title="České"  tvg-id="1333-čt3",ČT3
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1314-tv-stb_hd_ott.m3u8
